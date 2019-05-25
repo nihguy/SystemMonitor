@@ -1,0 +1,3 @@
+# Avoids that cmake output files and executables being shared
+build
+bin
